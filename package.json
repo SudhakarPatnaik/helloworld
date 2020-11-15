@@ -2,7 +2,6 @@
   "name": "myfirstreactapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/SudhakarPatnaik/helloworld.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.1.2",
