@@ -6,7 +6,7 @@ import "./App.css";
 function App() {
   return (
     <div>
-    <h1 className='App-header'>Welcome to my hello world REACT App</h1>
+    <h1 className='App-header'>Welcome to my hello world REACT Application</h1>
     </div>
   );
 }
